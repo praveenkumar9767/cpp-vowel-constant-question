@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+int main()
+ 
+ char alpha;
+ cout<< " enter the character"<< endl;
+ cin>> alpha;
+  
+  if (alpha=='a' || alpha==i; || alpha==o; || alpha==u; ||  alpha==e;){
+    cout<< " its a vowel"<< endl;
+    else{
+        cout<< " its a consonant"<< endl;
+    }
+  }
+
+//https://github.com/praveenkumar9767//
